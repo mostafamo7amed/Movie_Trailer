@@ -13,3 +13,6 @@ her list of components used to build this app:</b>
 - Permissions (INTERNET ,ACCESS_NETWORK_STATE)
 - User interface (UI components ,UI layout ,Fragments)
 
+## LICENCE
+[MIT License](https://github.com/mostafamo7amed/Movie_Trailer/blob/main/LICENCE)
+
